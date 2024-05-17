@@ -27,4 +27,8 @@ console.log(age, typeof age)
 
 /*
  * Usar int e flot somente quando tiver certeza que os valores precisão ser assim.
+ * Number para String
+ * age = age.toString()
+ * age = String(age)
+ * Converter Número para Boolean em JavaScript qual quer numero diferente de 0 e igual a true
  */
